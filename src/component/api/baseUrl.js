@@ -1,0 +1,1 @@
+export const baseUrl = 'https://labaratorka-4ccc5-default-rtdb.firebaseio.com/'

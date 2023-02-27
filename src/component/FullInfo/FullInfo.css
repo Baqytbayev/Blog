@@ -1,0 +1,15 @@
+.Button--Div{
+    width: 400px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.ButtonDelete{
+    padding: 10px;
+    background: darkcyan;
+    border-radius: 10px;
+    font-family: "Fira Code Medium";
+}
+.ButtonDelete:active{
+    background: green;
+}

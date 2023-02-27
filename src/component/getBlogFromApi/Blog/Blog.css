@@ -1,0 +1,19 @@
+.Blog--Item{
+    margin: 10px;
+    border: 1px solid red;
+    border-radius: 10px;
+    width: 800px;
+    background: cadetblue;
+
+}
+.title{
+    font-family: "Arial Narrow";
+    margin: 10px;
+    font-size: 23px;
+}
+.button--blog{
+    padding: 5px;
+    background: darkslategray;
+    margin: 10px;
+    border-radius: 10px;
+}
